@@ -1,0 +1,2 @@
+//OK
+extern int CantPut();
